@@ -1,0 +1,11 @@
+{
+  "org": "marshmallow-code",
+  "repo": "marshmallow-sqlalchemy",
+  "versions": [
+    {
+      "commit": "a04b4a8bf4200a50bc40b688f0d7949e42d0fd1e",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:14:42.237655+00:00"
+    }
+  ]
+}
