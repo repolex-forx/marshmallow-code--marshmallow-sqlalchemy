@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/marshmallow-code/marshmallow-sqlalchemy/commit/a04b4a8bf4200a50bc40b688f0d7949e42d0fd1e",
       "git:hexsha": "a04b4a8bf4200a50bc40b688f0d7949e42d0fd1e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/marshmallow-code/marshmallow-sqlalchemy/commit/b10eb385e14d2a0cfce457d7406956947c3089bb",
